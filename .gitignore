@@ -7,3 +7,4 @@
 /build
 /captures
 .externalNativeBuild
+./AndroidStudioProjects/Soulcast/app/src/debug/res/values/google_maps_api.xml
